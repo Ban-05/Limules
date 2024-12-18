@@ -12,8 +12,8 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "✰𝙳𝚊𝚟𝚒𝚍 𝚋𝚘𝚝🦅",
-	"prefix": "+",
+	"nickNameBot": "࿐𝔏𝔦𝔪𝔲𝔩𝔢 𝔱𝔢𝔪𝔭𝔢𝔰𝔱 .ೃ",
+	"prefix": "•",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
